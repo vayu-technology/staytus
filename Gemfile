@@ -31,3 +31,6 @@ group :development, :test do
   gem 'web-console', '~> 2.0'
   gem 'annotate', '~> 2.6.5'
 end
+
+
+gem 'pg'
